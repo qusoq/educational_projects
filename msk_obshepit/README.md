@@ -3,3 +3,4 @@
 Данный проект лучше открывать в nbviewer, так как на GitHub не отобразились почти все графики и карты в проекте.  
 
 [Ссылка на проект в nbviewer](https://nbviewer.org/github/qusoq/educational_projects/blob/main/msk_obshepit/msk_obshepit.ipynb)
+[Ссылка на презентацию](https://disk.yandex.ru/i/P7ylBSc9-tP6eg)
