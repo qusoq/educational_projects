@@ -2,7 +2,7 @@
 [Смотреть проект](https://github.com/qusoq/educational_projects/blob/main/loyality_NPS/NPS_project.ipynb)  
 [Смотреть дашборд Tableau](https://public.tableau.com/views/_NPS___v2/sheet10?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-## Описание проекта.
+## Описание проекта
 Исследование опроса клиентов телекомунникацонной компании с целью определения текущего уровня потребительской лояльности, или NPS (от англ. Net Promoter Score), среди клиентов из России.
 
 ## Инструменты и навыки
